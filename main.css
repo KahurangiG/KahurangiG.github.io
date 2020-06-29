@@ -5,3 +5,28 @@ font-family: 'Lobster', cursive;
 font-size: 100px;
 text-shadow: 5px 5px lightpink;
 color: white;}
+
+.links {
+    color:white;
+    text-decoration: none;
+    font-size: 50px;}
+    font-family: 'Montserrat', sans-serif;
+.links:hover {
+    color: grey;
+}
+.grid {
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.grid > div {
+    background: lightpink;
+    padding: 1em;
+}
+.grid > div:nth-child(odd) {
+ background: linen;
+ padding: 1em;
+}
+
+
+]
