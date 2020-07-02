@@ -1,0 +1,263 @@
+body
+{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header
+
+    {
+        text-align: center;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 60px;
+    }
+
+nav
+{ 
+    width: 100%;
+    height: 100px;
+    margin-bottom: 100px;
+}
+
+ul li
+{
+ list-style: none;
+ display: inline-block;
+ margin-top: 50px;
+
+}
+
+ul li a
+{
+ text-decoration: none;
+ font-size: 20px;
+ color: black;
+ opacity: 50%;
+ padding: 0 20px;
+
+}
+
+ul li a:hover
+{
+    opacity: 100%;
+}
+
+.pictureframe
+{
+    background-image: url(Images/pictureframe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 314px;
+    height: 391px;
+    display: block;
+    margin-left: 600px;
+    margin-top: 30px;
+
+}
+
+.intro
+{
+    width: 600px;
+    height: 100px;
+    display:block;
+    margin-left: 450px;
+    margin-top: 30px;
+ 
+}
+
+.margin-content
+{
+    width: 600px;
+    height:700px;
+    background-color: lightgrey;
+    display: block;
+    margin-left: 450px;
+    margin-top: 20px;
+    padding: 30px 10px 10px 10px;
+    box-shadow: lightslategrey 3px 3px 3px 3px;
+    border-radius: 10%;
+}
+
+p
+{
+    width: 600px;
+    height: 80px;
+    text-align: center;
+    position: relative
+}
+.margintop
+{
+    background-image: url(Images/margintop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: lightslategrey 3px 3px;
+    width: 295px;
+    height: 200px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 170px;
+    text-align: center;
+    position: relative;
+}
+
+.marginlist
+{
+    background-image: url(Images/marginlist.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: lightslategrey 3px 3px;
+    width: 250px;
+    height: 100px;
+    margin-top: 30px;
+    display: block;
+    margin-left: 200px;
+    position: relative;
+    text-align: center;
+}
+
+
+
+.border
+{
+    background-image: url(Images/border\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: lightslategrey 3px 3px;
+    width: 295px;
+    height: 200px;
+    margin-top: 20px;
+    display: block;
+    margin-left: 170px;
+    position: relative;
+    text-align: center;
+
+}
+
+.border-content
+{
+    width: 600px;
+    height: 400px;
+    background-color: lightgrey;
+    display: block;
+    margin-left: 450px;
+    margin-top: 20px;
+    padding: 30px 10px 10px 10px;
+    box-shadow: lightslategrey 3px 3px 3px 3px;
+    border-radius: 10%;
+    
+}
+
+.padding-content
+{
+    width: 600px;
+    height:570px;
+    background-color: lightgrey;
+    display: block;
+    margin-left: 450px;
+    margin-top: 20px;
+    padding: 30px 10px 10px 10px;
+    box-shadow: lightslategrey 3px 3px 3px 3px;
+    border-radius: 10%;
+}
+
+.paddingtop
+{
+    background-image: url(Images/paddingtop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 295px;
+    height: 200px;
+    display: block;
+    margin-left: 170px;
+    position: relative;
+    text-align: center;
+}
+
+.paddinglist
+{
+
+    background-image: url(Images/paddinglist\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 250px;
+    height: 100px;
+    display: block;
+    margin-left: 200px;
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Example-content
+
+{
+    width: 600px;
+    height:1100px;
+    background-color: lightgrey;
+    display: block;
+    margin-left: 450px;
+    margin-top: 20px;
+    padding: 30px 10px 10px 10px;
+    box-shadow: lightslategrey 3px 3px 3px 3px;
+    position: relative;
+    border-radius: 10%;
+}
+
+
+.object-img
+{
+    background-image: url(Images/object.jpg);
+    width: 200px;
+    height: 340px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    position: relative;
+}
+
+#final
+{
+    margin-top: 700px ;
+}
+
+.padding-object
+{
+    background-image: url(Images/Padding-object.jpg);
+    width: 200px;
+    height: 340px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    position: absolute;
+    margin: -450px 150px;
+}
+
+.border-object
+{
+    background-image: url(Images/Border-object.jpg);
+    width: 200px;
+    height: 340px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    margin: -550px 330px;
+}
+
+.margin-object
+{
+    background-image: url(Images/Margin-object\'.jpg);
+    width: 200px;
+    height: 340px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 200px;
+    margin-top: -50px;
+    
+}
