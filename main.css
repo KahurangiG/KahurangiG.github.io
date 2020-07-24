@@ -233,6 +233,46 @@ opacity: 100%;
 opacity: 100%;
 }
 
+.img-whangaroa
+{
+    background-image: url(Images/whangaroa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 30%;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    opacity: 50%;
+    margin-left: 200px;
+    margin-top: 1180px;
+}
+
+.img-whangaroa:hover  
+{
+opacity: 100%;
+}
+
+.img-harbour
+{
+    background-image: url(Images/harbour.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 30%;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    opacity: 50%;
+    margin-left: 200px;
+    margin-top: 1360px;
+}
+
+.img-harbour:hover  
+{
+opacity: 100%;
+}
+
 .img-profile
 {
     background-image: url(Images/face.jpg);
